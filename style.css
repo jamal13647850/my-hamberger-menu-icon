@@ -1,0 +1,23 @@
+body {
+    background: #222;
+}
+
+#container {
+    position: relative;
+    width: 100px;
+    margin: 200px auto;
+}
+
+.burger {
+    cursor: pointer;
+}
+
+.burger span {
+    display: block;
+    width: 100px;
+    height: 14px;
+    background: #eeeeee;
+    position: relative;
+    margin-bottom: 10px;
+    top: 0px;
+}
